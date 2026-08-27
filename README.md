@@ -3,5 +3,8 @@
 
 Original Game by Pippin Barr
 
+https://pippinbarr.com/
 
-Based on ShiftaVerse (UnderFell) https://www.youtube.com/channel/UCZcDKpIY0SItIsEWM0QB8og
+Based on ShiftaVerse (UnderFell) 
+
+https://www.youtube.com/channel/UCZcDKpIY0SItIsEWM0QB8og
