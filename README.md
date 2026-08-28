@@ -5,7 +5,7 @@ Base: Let’s Play: Ancient Greek Punishment
 <br>AU: Fell<br>
 
 Original Game by Pippin Barr
-<br>https://pippinbarr.com/<br>
+<br>https://pippinbarr.com/lets-play-ancient-greek-punishment/<br>
 
 Based on ShiftaVerse  
 https://www.youtube.com/channel/UCZcDKpIY0SItIsEWM0QB8og
