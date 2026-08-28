@@ -4,7 +4,7 @@ https://yadier3.github.io/lets-fucking-play-ancient-greek-fellishment/
 Base: Let’s Play: Ancient Greek Punishment
 <br>AU: Fell<br>
 
-Also this is mobile-friendly
+Also this is mobile-friendly.
 
 Original Game by Pippin Barr
 <br>https://pippinbarr.com/<br>
