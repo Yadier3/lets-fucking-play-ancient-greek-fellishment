@@ -130,7 +130,7 @@ let Zeno = new Phaser.Class({
       wordWrap: true,
       align: 'center'
     };
-    let instructionString = `RAPIDLY ${verb} THE\n${device} TO FUCKING RUN\nTO THE FINSH LINE!`;
+    let instructionString = `RAPIDLY ${verb} THE\n${device} TO FUCKING RUN\nTO THE FINISH LINE!`;
     this.instructionsText = this.add.text(this.game.canvas.width / 4, 100, instructionString, instructionStyle);
     this.instructionsText.setOrigin(0.5);
 
